@@ -1,6 +1,6 @@
 # npm install twice in "root" directory and "src/refactor-this/" directory
 # then 
-# npm start
+# npm start in "root" directory
 
 # Technical Test
 The code in this project is operational, but it was completed with very poor standard.
