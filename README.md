@@ -1,3 +1,7 @@
+# npm install twice in "root" directory and "src/refactor-this/" directory
+# then 
+# npm start
+
 # Technical Test
 The code in this project is operational, but it was completed with very poor standard.
 The client is also upset because the app is not fast enough to respond to user actions.
